@@ -11,3 +11,12 @@ body {
     text-align: center;
     font-size: 50px;    
 }
+.black{
+    background-color: #000000;
+    border-bottom: 10px solid #4d2d06;
+}
+.white{
+    color: #000000;
+    background-color: #ffffff;
+    border-bottom: 10px solid #4d2d06;
+}
